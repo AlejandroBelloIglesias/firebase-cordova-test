@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911893161100",
+    "project_id": "vuepush-69f3d",
+    "storage_bucket": "vuepush-69f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911893161100:android:fa874ce21577e42b6047a9",
+        "android_client_info": {
+          "package_name": "io.cordova.hellocordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911893161100-em8gvaf78obb25sljqt7k48oh74m5p8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnmI2EWb6judRbIPOUj96JBa_wE6z7tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911893161100-em8gvaf78obb25sljqt7k48oh74m5p8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
